@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.6.0_24-b07 (Sun Microsystems Inc.)
+Class-Path: ../lib/h2.jar ../lib/mysql.jar ../lib/sqlite.jar ../lib/po
+ stgresql.jar ../lib/h2db.jar ../lib/mysql-connector-java-bin.jar ../l
+ ib/sqlite-jdbc.jar ../lib/postgresql.jdbc4.jar ../h2.jar ../mysql.jar
+  ../sqlite.jar ../postgresql.jar ../h2db.jar ../mysql-connector-java-
+ bin.jar ../sqlite-jdbc.jar ../postgresql.jdbc4.jar 
+
